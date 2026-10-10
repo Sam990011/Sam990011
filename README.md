@@ -5,8 +5,6 @@ Backend developer focused on **C#, ASP.NET Core** and **Clean Architecture**.
 I'm looking for an internship / junior position in .NET backend development.
 
 
----
-
 ## ⚡ Languages / Frameworks / Skills
 
 ### Languages & FrameWorks
@@ -44,4 +42,4 @@ I'm looking for an internship / junior position in .NET backend development.
 ---
 
 ## 📫 Contact
-- Email: sammirshahzadeh9999@gmail.com
+- Email: sammirshahzadeh999900@gmail.com
