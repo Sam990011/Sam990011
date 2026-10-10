@@ -5,17 +5,6 @@ Backend developer focused on **C#, ASP.NET Core** and **Clean Architecture**.
 I'm looking for an internship / junior position in .NET backend development.
 
 
-**Tech Stack**
-- ASP.NET Core & Razor Pages
-- Entity Framework Core
-- SQL Server
-- Bootstrap & HTML/CSS
-
-**Currently**
-- Working on e-commerce projects
-- M.Sc. Software Engineering student
-- Open to remote .NET opportunities
-
 ---
 
 ## ⚡ Languages / Frameworks / Skills
