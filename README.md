@@ -1,7 +1,7 @@
 <h2>
 # 👋 Hi, I'm Sam Mirshahzadeh
 
-Backend developer focused on **C#, ASP.NET Core** and **Clean Architecture**.
+Asp.Net core developer focused on **C#, ASP.NET Core** and **Clean Architecture**.
 I'm looking for an internship / junior position in .NET backend development.
 
 
@@ -19,7 +19,7 @@ I'm looking for an internship / junior position in .NET backend development.
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
 ### Frontend
@@ -43,3 +43,4 @@ I'm looking for an internship / junior position in .NET backend development.
 
 ## 📫 Contact
 - Email: sammirshahzadeh999900@gmail.com
+- Linkedin : www.linkedin.com/in/sam-mirshahzadeh-8450b9416
